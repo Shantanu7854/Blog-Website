@@ -1,0 +1,12 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder", 
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "fb_url": "https://www.facebook.com/profile.php?id=100074723030968",
+        "tw_url": "https://twitter.com/condingthunder",
+        "gh_url": "https://github.com/Shantanu7854",
+        "blog_name": "Reliance Blog"
+    }
+}
